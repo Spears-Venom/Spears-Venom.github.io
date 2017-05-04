@@ -1,0 +1,117 @@
+var gdp = [{
+	"State": "Andhra Pradesh",
+	"gdp_2011": "4.93",
+	"gdp_2001": "5.96"
+}, {
+	"State": "Arunachal Pradesh",
+	"gdp_2011": "0.13",
+	"gdp_2001": "0.11"
+}, {
+	"State": "Assam",
+	"gdp_2011": "1.52",
+	"gdp_2001": "2.01"
+}, {
+	"State": "Bihar",
+	"gdp_2011": "3.28",
+	"gdp_2001": "2.73"
+}, {
+	"State": "Chhattisgarh",
+	"gdp_2011": "1.77",
+	"gdp_2001": "1.78"
+}, {
+	"State": "Goa",
+	"gdp_2011": "0.47",
+	"gdp_2001": "0.67"
+}, {
+	"State": "Gujarat",
+	"gdp_2011": "7.31",
+	"gdp_2001": "6.98"
+}, {
+	"State": "Haryana",
+	"gdp_2011": "3.71",
+	"gdp_2001": "2.97"
+}, {
+	"State": "Himachal Pradesh",
+	"gdp_2011": "0.79",
+	"gdp_2001": "0.73"
+}, {
+	"State": "Jammu & Kashmir",
+	"gdp_2011": "0.84",
+	"gdp_2001": "0.78"
+}, {
+	"State": "Jharkhand",
+	"gdp_2011": "1.65",
+	"gdp_2001": "1.81"
+}, {
+	"State": "Karnataka",
+	"gdp_2011": "5.87",
+	"gdp_2001": "6.23"
+}, {
+	"State": "Kerala",
+	"gdp_2011": "3.75",
+	"gdp_2001": "4.98"
+}, {
+	"State": "Madhya Pradesh",
+	"gdp_2011": "4.65",
+	"gdp_2001": "4.27"
+}, {
+	"State": "Maharashtra",
+	"gdp_2011": "14.42",
+	"gdp_2001": "13.21"
+}, {
+	"State": "Manipur",
+	"gdp_2011": "0.14",
+	"gdp_2001": "0.05"
+}, {
+	"State": "Meghalaya",
+	"gdp_2011": "0.21",
+	"gdp_2001": "0.34"
+}, {
+	"State": "Mizoram",
+	"gdp_2011": "0.10",
+	"gdp_2001": "0.35"
+}, {
+	"State": "Nagaland",
+	"gdp_2011": "0.17",
+	"gdp_2001": "0.15"
+}, {
+	"State": "Odisha",
+	"gdp_2011": "3.11",
+	"gdp_2001": "4.34"
+}, {
+	"State": "Punjab",
+	"gdp_2011": "3.03",
+	"gdp_2001": "2.91"
+}, {
+	"State": "Rajasthan",
+	"gdp_2011": "4.94",
+	"gdp_2001": "4.02"
+}, {
+	"State": "Sikkim",
+	"gdp_2011": "0.12",
+	"gdp_2001": "0.04"
+}, {
+	"State": "Tamil Nadu",
+	"gdp_2011": "8.16",
+	"gdp_2001": "9.06"
+}, {
+	"State": "Tripura",
+	"gdp_2011": "0.26",
+	"gdp_2001": "0.28"
+}, {
+	"State": "Uttarakhand",
+	"gdp_2011": "1.47",
+	"gdp_2001": "2.04"
+}, {
+	"State": "Uttar Pradesh",
+	"gdp_2011": "8.24",
+	"gdp_2001": "7.68"
+}, {
+	"State": "West Bengal",
+	"gdp_2011": "6.75",
+	"gdp_2001": "8.98"
+}, {
+	"State": "",
+	"gdp_2011": "",
+	"gdp_2001": ""
+}]
